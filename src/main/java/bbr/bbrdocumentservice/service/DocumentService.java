@@ -16,11 +16,11 @@ import java.util.List;
 @Service
 public class DocumentService {
 
-    private static final String RON_INVOICE_NAME = "./invoices/ron.xlsx";
-    private static final String EUR_INVOICE_NAME = "./invoices/eur.xlsx";
-    private static final String EXCELS_LOCATION = "./invoices/excels/";
-    private static final String ASPOSES_LOCATION = "./invoices/asposes/";
-    private static final String PDFS_LOCATION = "./invoices/pdfs/";
+    private static final String RON_INVOICE_NAME = ".\\invoices\\ron.xlsx";
+    private static final String EUR_INVOICE_NAME = ".\\invoices\\eur.xlsx";
+    private static final String EXCELS_LOCATION = ".\\invoices\\excels\\";
+    private static final String ASPOSES_LOCATION = ".\\invoices\\asposes\\";
+    private static final String PDFS_LOCATION = ".\\invoices\\pdfs\\";
     private static final Integer NUMBER_OF_ITEMS = 12;
 
 
